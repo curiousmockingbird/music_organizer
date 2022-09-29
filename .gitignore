@@ -1,0 +1,5 @@
+*/music_organizer/bin/
+*/music_organizer/obj/
+*/music_organizer.Tests/obj/
+*/music_organizer.Tests/bin/
+.vscode
